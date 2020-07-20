@@ -70,7 +70,7 @@ a.btn:hover {
  top:0;
  min-height:100%;
  min-width:34px;
- background:transparent url(../Images/scroll-img.png) repeat 0 0;
+ background:transparent url(https://github.com/avipatil9/gc1/blob/master/Images/scroll-img.png) repeat 0 0;
  -webkit-transform:rotate(180deg);
  transform:rotate(180deg);
  font-family:roboto,sans-serif;
@@ -86,7 +86,7 @@ a.btn:hover {
  top:0;
  min-height:100%;
  min-width:34px;
- background:transparent url(../Images/scroll-img.png) repeat 0 0;
+ background:transparent url(https://github.com/avipatil9/gc1/blob/master/Images/scroll-img.png) repeat 0 0;
  font-family:roboto,sans-serif;
  -webkit-animation:10s linear 0s normal none infinite loop-bottom;
  -moz-animation:10s linear 0s normal none infinite loop-bottom;
