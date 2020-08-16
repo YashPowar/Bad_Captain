@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Merienda&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kalam&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rozha+One&display=swap');
 body,html {
  padding:0;
  margin:0
@@ -19,8 +21,22 @@ body {
  color:#ffd897
 }
 
-.qtext {
+.wish {
  font-size:15pt;
+ padding:5px;
+ font-family: 'Kalam', cursive;
+ color:#ffd897; 
+}
+
+.wish2 {
+ font-size:15pt;
+ padding:5px;
+ font-family: 'Rozha One', serif;
+ color:#ffd897;
+ )
+ 
+.qtext {
+ font-size:13pt;
  padding:5px;
  font-family:merienda,cursive;
  color:#ffd897
