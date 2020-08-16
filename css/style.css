@@ -3,6 +3,7 @@ body,html {
  padding:0;
  margin:0
 }
+
 body {
  background-color:#c32732;
  text-align:center;
@@ -21,13 +22,13 @@ body {
 
 .wish {
  font-size:15pt;
- padding:5px;
+ padding: 5px;
  color:#ffd897; 
 }
 
 .wish2 {
- font-size:15pt;
- padding:5px;
+ font-size:14pt;
+ padding: 5px;
  color:#ffd897;
  )
  
